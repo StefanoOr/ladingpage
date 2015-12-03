@@ -1,9 +1,16 @@
 # stefanoor.github.io
 <html>
 <head>
+<style>
+h1 {
+    color: blue;
+    font-family: verdana;
+   
+    </style>
+
  <title> Ciao</title>
  <hr>
- <p>Ciao,ciao</p>
+ <h1>Ciao,ciao</h1>
  <hr>
  <body>
  </body>
