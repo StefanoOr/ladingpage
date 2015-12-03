@@ -11,8 +11,9 @@ h1 {
 
  <title> Ciao</title>
  <hr>
- <h1>Ciao,ciao</h1>
- <hr>
+</head>
  <body>
+  <h1>Ciao,ciao</h1>
+ <hr>
  </body>
  </hmtl>
