@@ -1,6 +1,7 @@
 # stefanoor.github.io
 <html>
 <head>
+
 <style>
 h1 {
     color: blue;
@@ -10,6 +11,7 @@ h1 {
     </style>
 
  <title> Ciao</title>
+ <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
  <hr>
 </head>
  <body>
