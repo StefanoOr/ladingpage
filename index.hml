@@ -1,23 +1,28 @@
 # stefanoor.github.io
+<!DOCTYPE html>
 
 <html>
 <head>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 <style>
-h1 {
-    color: blue;
-    font-family: verdana;
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
     }
-    body {background-color: lightgrey;}
    
     </style>
 
  <title> </title>
  
- <hr>
+ 
 </head>
  <body>
-  <h1>Ciao,ciao</h1>
+ <div=id="header">
+  <h1>Stefano </h1>
+  </div>
+  <p> boooo </p>
  <hr>
  </body>
  </hmtl>
