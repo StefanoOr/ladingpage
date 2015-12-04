@@ -3,10 +3,10 @@
 <head>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 <style>
-h1 {
+<!-- h1 {
     color: blue;
     font-family: verdana;
-    }
+    }<!-- 
    
     </style>
 
